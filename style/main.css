@@ -1,0 +1,27 @@
+@media only screen and (max-width: 360px) {
+    body{
+        width: 500px;
+        padding-top: 60px;
+        height: 740px;
+    }
+    header{
+        max-width: 200px;
+    }
+    .logo{
+        position: relative;
+        left: -60px;
+    }
+    #stars{
+        width: 360px;
+        object-fit: contain;
+    }
+    section{
+        width: 600px;
+    }
+    .sec{
+        width: 600px;
+    }   
+    h2{
+        width: 500px;
+    } 
+} 
